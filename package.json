@@ -1,0 +1,11 @@
+{
+  "name": "particle-adafruitio",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgbartley/particle-adafruitio.git"
+  },
+  "dependencies": {
+    "spark": "^1.0.0"
+  }
+}
