@@ -1,7 +1,7 @@
 particle-adafruitio
 ===================
 
-A simple Node.JS daemon that listens for published events on your Particle event stream, parses them, and pushes them to Adafruit IO.
+A simple Node.JS daemon that listens for published events on your Particle event stream, parses them, and pushes them to [Adafruit IO](http://io.adafruit.com).
 
 
 Installation
