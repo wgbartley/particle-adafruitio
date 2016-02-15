@@ -154,7 +154,7 @@ function stats_send(msg) {
 	var this_request = aio_https_post_opts;
 	this_request.path = '/api/v1/feeds/'+key+'/data/send'
 
-	// Send to Initial State
+	// Send to Adafruit IO
 	var req = https.request(this_request, function(res) {
 		res.on('data', function(d) {
 			// Do nothing?
